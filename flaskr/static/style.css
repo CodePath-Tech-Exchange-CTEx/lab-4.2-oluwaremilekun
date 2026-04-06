@@ -2,20 +2,28 @@
 
 html {
     margin: 25px;
-    background-color: lightblue;
+    background-color: rgb(241, 166, 238);
     font-family: verdana;
     font-size: 20px;
 }
 
 h3 {
-    margin-top: 20px;
-    background-color: lightblue;
-    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 26px;
     font-weight: bolder;
+    color: rgb(180, 60, 180);
 }
 
 p {
-    margin-top: 10px;
-    margin-left: 15px;
-    background-color: lightblue;
+    margin-top: 8px;
+    font-size: 18px;
+    color: #444;
 }
+.profile-pic {
+    width: 400px;
+    height: auto;
+    border-radius: 8px; /* Optional: gives Sammy some nice rounded corners */
+}
+/* Add this to the bottom of your CSS file */
+ 
